@@ -1,0 +1,23 @@
+style{
+    background-color: rgb(144, 212, 235);
+}
+h1{
+    background-color: rgb(133, 181, 252);
+    padding: 24px;
+}
+img{
+    width:300px;
+}
+body{
+    text-align: center;
+    background-color: lightblue;
+}
+Link{
+    text-decoration: rgb(32, 0, 84);
+}
+a .href{
+text-decoration: rgb(70, 1, 56);
+}
+h2{
+    background-color: rgb(149, 217, 253);
+}
